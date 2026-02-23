@@ -1,5 +1,12 @@
 # agent-marketplace-mobile
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/agent-marketplace-mobile/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/agent-marketplace-mobile/actions)
+![License](https://img.shields.io/github/license/yksanjo/agent-marketplace-mobile)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/agent-marketplace-mobile)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/agent-marketplace-mobile)
+
 ## Detailed Description
 
 agent-marketplace-mobile is maintained as an industry-grade software project with production-ready engineering practices.  
